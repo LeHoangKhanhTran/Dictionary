@@ -1,0 +1,300 @@
+ability,khả năng
+abnormal,bất thường
+above,bên trên
+accept,chấp nhận
+action,hành động
+admit,thừa nhận
+aesthetic,thẩm mỹ
+affect,ảnh hưởng
+agency,hãng
+agreement,sự đồng ý
+ahead,phía trước
+aim,nhắm vào
+allow,cho phép
+almost,gần như
+bad,xấu/dở/tồi
+bank,ngân hàng
+beautiful,xinh đẹp
+because,bởi vì
+become,trở thành
+behavior,hành vi
+benefit,lợi ích
+blame,đổ tội/trách cứ
+bounty,tính hào phóng/tặng phẩm
+budget,ngân sách
+building,công trình xây dựng
+business,công việc/kinh doanh/công ty
+campaign,chiến dịch
+candidate,thí sinh/ứng cử viên
+career,sự nghiệp
+center,giữa/trung tâm
+cause,nguyên nhân
+century,thế kỉ
+challenge,thử thách/thách thức
+choice,lựa chọn
+chronological,thuộc niên đại
+citizen,công dân
+collection,bộ sưu tập
+common,thông thường/phổ biến
+data,dữ liệu
+damage,sự hư hại
+debate,tranh luận
+decade,thập kỷ
+decision,quyết định
+describe,miêu tả
+design,thiết kế
+detail,chi tiết
+development,sự phát triển/tiến triển
+doctor,bác sĩ
+discover,khám phá
+economy,nền kinh tế
+education,giáo dục
+effect,hiệu quả/tác dụng
+election,cuộc tuyển chọn/bầu cử
+employee,nhân viên/người làm công ăn lương
+energy,năng lượng
+environment,môi trường
+essence,bản chất/tính chất
+establish,chứng minh/thành lập/củng cố
+evidence,bằng chứng/dấu hiệu
+execute,thực hiện/tiến hành
+experience,trải nghiệm/kinh nghiệm
+explain,giải thích
+fact,sự thật
+factor,nhân tố/thừa số
+family,gia đình
+feeling,cảm giác
+financial,thuộc về tài chính
+finish,kết thúc
+fire,lửa/đám cháy/sự hăng hái
+firm,chắc chắn/xác định/không thay đổi
+flexible,linh hoạt
+focus,tập trung
+foreign,thuộc về nước ngoài
+follow,theo sau/theo dõi
+fund,quỹ(tiền)/nguồn dự trữ
+future,tương lai
+game,trò chơi
+generation,thế hệ
+gift,món quà
+glimpse,cái nhìn thoáng qua
+global,toàn cầu
+goal,mục tiêu/bàn thắng
+government,chính phủ
+ground,mặt đất
+grow,phát triển/gia tăng
+guess,đoán
+general,chung/phổ biến
+gem,viên ngọc/một thứ quý giá
+half,một nửa
+health,sức khỏe
+height,chiều cao
+history,lịch sử
+homicide,tội giết người
+hope,hy vọng
+hospital,bệnh viện
+hospitality,sự hiếu khách
+however,tuy nhiên/bằng cách nào
+huge,lớn/khổng lồ
+heavy,nặng
+hard,khó khăn/khắc nghiệt/cứng rắn
+idea,ý tưởng
+identify,nhận diện
+imagination,trí tưởng tượng
+impact,sự tác động/sự ảnh hưởng
+important,quan trọng
+improve,cải thiện/làm cho thứ gì đó tốt hơn
+indicate,cho biết/ngụ ý
+industry,(ngành)công nghiệp
+information,thông tin
+institution,thể chế/sự xây dựng
+jar,gây khó chịu/gây chấn động
+jealousy,sự ghen tị
+job,công việc
+joke,trò đùa
+join,tham gia/nối ghép
+joy,niềm vui
+jump,nhảy
+junk,đồ tạp nham
+just,công bằng/hợp lý/xứng đáng
+justice,công lý
+justify,bào chữa
+kaleidoscope,kính vạn hoa
+keep,giữ
+keeper,người chăm sóc/canh giữ
+key,chìa khóa
+kitchen,nhà bếp
+kind,tốt bụng/tử tế
+knight,hiệp sĩ
+know,biết/quen biết
+knowledge,kiến thức/sự hiểu biết
+language,ngôn ngữ
+lame,khập khiễng/không có sức thuyết phục
+lament,thương xót
+last,cuối cùng
+late,trễ
+law,luật lệ
+lawyer,luật sư
+lead,lãnh đạo/dẫn đầu
+legal,hợp pháp
+letter,thư từ/chữ cái
+life,cuộc sống/sự sống
+local,địa phương/bản địa
+machine,máy móc
+magazine,tạp chí
+mammal,động vật có vú
+mankind,nhân loại
+maintain,duy trì/tiếp tục/xác nhận
+majority,phần lớn/số đông
+management,sự quản lý
+market,chợ/thị trường
+marriage,hôn nhân
+material,nguyên vật liệu
+media,(phương tiện)truyền thông đại chúng
+memory,trí nhớ/bộ nhớ/ký ức
+minority,thiểu số
+monster,quái vật
+name,tên/dang tiếng
+national,thuộc về quốc gia
+nature,thiên nhiên
+necessary,cần thiết
+network,mạng lưới
+news,tin tức
+newspaper,báo chí
+nice,tốt/hay ho
+night,ban đêm
+notice,chú ý
+note,giấy nhắn/những điều lưu ý/bức thư ngắn
+numb,tê cóng/chết lặng
+number,số/số lượng/tiết mục/số phát hành tạp chí
+object,vật/vật thể/phản đối/chống lại
+on,trên/ở trên/tiếp tục/tiếp diễn
+open,mở
+only,chỉ
+opinion,quan điểm
+opportunity,cơ hội
+optimal,tối ưu
+or,hoặc
+out,ngoài/ở ngoài/ra ngoài
+oil,dầu
+our,chúng ta
+own,của chính mình/tự mình/nhận/nhìn nhận
+page,trang
+paint,sơn/vôi màu/sơn/quét sơn
+painting,hội họa/bức họa
+paper,giấy
+parent,cha mẹ
+pass,qua/vượt qua
+party,tiệc
+pay,thanh toán
+people,dân tộc/dòng giống/người
+picture,bức tranh
+plant,thực vật
+plummet,lao thẳng xuống
+prosper,thịnh vượng
+quality,chất lượng
+question,câu hỏi
+questionable,đáng ngờ/có vấn đề
+quite,yên lặng
+quick,nhanh
+quiz,cuộc thi đố
+quote,trích dẫn/định giá
+radio,sóng vô tuyến
+rain,mưa
+reach,đến/đi đến
+reason,lý do
+remember,nhớ
+repeat,lặp lại
+rich,giàu
+right,bên phải/thích hợp/hợp đạo đức/chính xác
+ring,chiếc nhẫn
+river,dòng sông
+roar,tiếng gầm rú
+rock,đá
+safe,an toàn
+same,giống 
+save,cứu/lưu
+say,nói
+shape,hình dạng
+school,trường học
+science,khoa học
+scientist,nhà khoa học
+score,điểm số
+sea,biển
+somebody,một vài người
+something,một vài điều
+sometimes,thỉnh thoảng
+speak,nói
+special,đặc biệc
+spend,chi
+star,ngôi sao
+start,bắt đầu
+stay,ở
+step,bước
+still,vẫn
+they,họ
+thing,điều
+think,suy nghĩ
+thousand,nghìn
+thunder,sấm/tiếng vó ngựa
+threat,đe dọa
+three,ba
+time,thời gian
+today,hôm nay
+together,cùng nhau
+tonight,tối nay
+total,tổng cộng
+true,đúng
+try,thử
+uncle,chú
+under,dưới
+understand,hiểu
+union,sự kết hợp/sự hợp nhất/hiệp hội
+until,cho tới khi
+up,lên
+use,dùng
+usually,thường xuyên
+utilize,sử dụng/tận dụng
+utopia,xã hội không tưởng
+utter,thốt ra/phát ra
+value,giá trị
+various,đa dạng
+very,rất
+victim,nạn nhân
+view,tầm nhìn
+vine,cây nho/cây leo
+violence,bạo lực
+villain,phản diện
+villainy,hành vi côn đồ
+visit,thăm
+voice,giọng
+wait,chờ đợi
+walk,đi
+wall,bức tường
+want,muốn
+war,chiến tranh
+water,nước
+we,chúng tôi
+weapon,vũ khí
+wear,mang/mặc/đội
+week,tuần
+weight,cân nặng
+well,tốt
+word,từ
+work,làm
+worker,công nhân
+world,thế giới
+worry,lo lắng
+write,viết
+wrong,sai
+yard,sân
+yawn,ngáp
+year,năm
+yell,kêu la
+yellow,màu vàng
+yes,có
+yesterday,ngày hôm qua
+yet,chưa/thậm chí/tuy nhiên
+young,trẻ/trẻ tuổi/thiếu niên/thanh niên
+your,của anh/của chị/của ngài
+youth,tuổi trẻ
