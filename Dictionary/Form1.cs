@@ -8,7 +8,7 @@ namespace Dictionary
             InitializeComponent();
         }
         Dictionary<string, string> dict = new Dictionary<string, string>();
-        int numberOfWords = 0;
+        int numberOfWords = 0; //Biến ghi nhận số từ
         private void Form1_Load(object sender, EventArgs e)
         {
             BuildDictionary(dict, ref numberOfWords);
@@ -24,7 +24,7 @@ namespace Dictionary
             {
                 line = reader.ReadLine();
                 words = line.Split(',');
-                if (words.Length == 2)
+                if (words.Length == 2) //Chỉ cho dòng hiện tại vào Dictionary khi có dữ liệu đúng format
                 {
                     dict.Add(words[0], words[1]);
                     numberOfWords++;
@@ -47,6 +47,7 @@ namespace Dictionary
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             object word = listBox1.SelectedItem;
+            textBox1.Text = word.ToString(); //Cho từ được chọn vào thanh tìm kiếm
             textBox2.Text = dict[word.ToString()];
         }
         
@@ -66,6 +67,12 @@ namespace Dictionary
             {
                 textBox2.Text = "Không tìm thấy từ " + "'" + input + "'" + " trong từ điển này.";
             }    
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "";
+            textBox2.Text = "";
         }
     }
 }
